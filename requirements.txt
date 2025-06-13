@@ -1,7 +1,7 @@
-PyYAML
-langchain
-langchain-openai
-langchain_community
-pymupdf
-streamlit
-yaml
+PyYAML==6.0
+langchain==0.0.128
+langchain-openai==0.0.1.2
+langchain-community==0.0.2
+pymupdf==1.23.5
+streamlit==1.28.0
+
