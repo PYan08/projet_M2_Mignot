@@ -2,10 +2,6 @@
 
 Ce projet propose une interface pour charger des documents pour constituer une base de connaissance qui pourra être questionnée avec un grand modèle de langage (_LLM_).
 
-# RAG UI Project
-
-This project implements a Retrieval-Augmented Generation (RAG) system to analyze documents and provide insights using natural language processing.
-
 ## Table of Contents
 - [Installation]
 - [Usage]
